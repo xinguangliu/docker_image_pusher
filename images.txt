@@ -4,7 +4,7 @@
 #xhofe/alist:latest
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
-langgenius/dify-api:0.6.12-fix1
+dify-api:0.6.12-fix1
 postgres:15-alpine
 redis:6-alpine
 langgenius/dify-sandbox:0.2.1
